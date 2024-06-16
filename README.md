@@ -320,6 +320,8 @@ Push Changes:
 After committing your changes locally, click the ... (ellipsis) next to the branch name in the Status Bar.
 Click Push to push your committed changes to GitHub.
 
+REFERENCES: Google and ChatGBT
+
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide screenshots or step-by-step instructions where applicable.
